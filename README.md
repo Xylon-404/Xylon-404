@@ -1,3 +1,38 @@
+### Hi There 👋, My Name Is XYLON
+#### I am Noob programer🙈
+<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ 
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+XYLON;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+  
+  </p>
+ <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+-🥰WELCOME TO MY PROFILE🥰
+
+- 🙂 MY Name IS :- XYLON
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 🇧🇩 Lives In :- BANGLADESH
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
+- 📕 SCHOOL & Class :- 10😁
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
+- 🙂 Relation :- Born To Single 💔
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 🤲 Religion  :-Islam 😇
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+ 
 ![logo](https://github.com/Xylon-404/Xylon-404/blob/main/20240616_124425.jpg)
 <h1 align="center">Hi 👋, I'm ABDULLHA🔰</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
