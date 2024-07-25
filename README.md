@@ -1,7 +1,4 @@
-<img width=100% title=" XYLON" alt=" XYLON" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=⚠️- XYLON&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
-
-
-
+<img width=100% title=" XYLON" 
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
   
@@ -28,33 +25,33 @@
 
 - 🙂 Relation :- Born To Single 💔
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
+</b></h3>
+```go
+package main
 
-- 🤲 Religion  :-Islam 😇
+import "fmt"
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+type Person struct {
+  name string
+  username string
+  age int
+  hobbies []string
+  job string
+}
 
- 
-![logo](https://github.com/Xylon-404/Xylon-404/blob/main/20240616_124425.jpg)
-<h1 align="center">Hi 👋, I'm ABDULLHA🔰</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xylon-404" alt="xylon-404" /></a> </p>
-
-<img align="right" alt="coding" width="400" src="https://github.com/Xylon-404/Xylon-404/blob/main/GIF_20240616_122603_903.gif">
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<img align="right" alt="coding" width="400" src="https://github.com/Xylon-404/Xylon-404/blob/main/troll-face-creepy-smile.gif">
-
-
-- 🔭 I’m currently working on [Python](@Abdullha_404)
-
-- 📝 I regularly write articles on [@Abdullha_404](@Abdullha_404)
-
-- 📫 How to reach me **xylonax1590@email.com**
-
-- ⚡ Fun fact **I'm fun😆😆**
+func main() {
+  var me = new(Person)
+  
+  me.name     = "ABDULLHA"
+  me.username = "XYLON"
+  me.age      = "17"
+  me.job      = "Programer"
+  me.hobbies  = []string{"code", "music"," gaming"}
+  
+  fmt.Println(me)
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
