@@ -1,4 +1,4 @@
-<img width=100% title=" XYLON" 
+
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
   
@@ -44,3 +44,32 @@
 <img src="https://github.com/Xylon-404/Xylon-404/blob/main/Warning.gif" float="center">
 
 <img align="right" alt="coding" width="200" src="https://github.com/Xylon-404/Xylon-404/blob/main/jnn.gif">
+
+
+<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
+</b></h3>
+```go
+package main
+
+import "fmt"
+
+type Person struct {
+  name string
+  username string
+  age int
+  hobbies []string
+  job string
+}
+
+func main() {
+  var me = new(Person)
+  
+  me.name     = "ABDULLHA"
+  me.username = "XYLON"
+  me.age      = "17"
+  me.job      = "Programer"
+  me.hobbies  = []string{"code", "music"," gaming"}
+  
+  fmt.Println(me)
+}
+```
