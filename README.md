@@ -49,6 +49,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </b></h3>
 
+```python
 import "fmt"
 
 type Person struct {
@@ -70,3 +71,4 @@ func main() {
   
   fmt.Println(me)
 }
+```
