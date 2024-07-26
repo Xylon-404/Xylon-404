@@ -43,24 +43,4 @@
 
 <img src="https://github.com/Xylon-404/Xylon-404/blob/main/Warning.gif" float="center">
 
-
-### 📊 GitHub States
-<p align="center">
-<a href="https://github.com/XYLON"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=XYLON&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XYLON&theme=dark&hide_border=false" />
- </a></p>
-<p align="center">
-<a href="https://github.com/XYLON">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XYLON&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=XYLON&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
-  </a>
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Contribution Snake -->
-<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Footer -->
-
-<img src="./assets/images/Footer.jpg">
+<img align="right" alt="coding" width="400" src="https://github.com/Xylon-404/Xylon-404/blob/main/jnn.gif">
