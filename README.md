@@ -43,4 +43,4 @@
 
 <img src="https://github.com/Xylon-404/Xylon-404/blob/main/Warning.gif" float="center">
 
-<img align="right" alt="coding" width="400" src="https://github.com/Xylon-404/Xylon-404/blob/main/jnn.gif">
+<img align="right" alt="coding" width="200" src="https://github.com/Xylon-404/Xylon-404/blob/main/jnn.gif">
