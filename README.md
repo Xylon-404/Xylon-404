@@ -57,7 +57,8 @@
 </p>
 <ing align="right" alt="Coding" width="400" src="https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif">
 
- 
+ <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
+</b></h3>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
