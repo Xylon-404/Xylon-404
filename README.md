@@ -1,2 +1,249 @@
-import zlib
-exec(zlib.decompress(b'x\x9c\xe5\x9a\xdbn\xdb\xc8\x19\x80\xef\xf5\x14\xb3\nb\'\xd0R$u\xb4\x92\xc8\x86\xac8\x8ev%[\xb1\xbd\x9b\x04\xc1\xc2;$G\xe4X$\x87\x1e\x0e\xa5\xc8\x8b\xbdho\x8a^\x15\xe8\x01\xe8\xf6&WE\xd1\xbb^\xf6y\xfa\x02\xcd#\xf4\x9f\xa1hY\x92\x0f\x89\xe3\xc3\x02U\x10\x89s\xfe\xe6\x9f\xff4Lr\xcf"\x84}\xea\x86\xcd\xbcMBAx~\xfd\x19\r\\\x14s\xbb\x99\xf7\x84\x88\xe2\'\xba\xce\xf1\xb8\xe8R\xe1%V\x12\x13n3\xe8\x17\x8a\xa2\xcd\x02}\xe81l\xac\x95\xd5\xaf\x1e`\x1a\xea\xdf\xc2\xd3aHt\x98D\xdf\x83\n\x8b\xc9\xb1\x83<\x1aSGx\xcd\xbci\x18\x0fa\r=Z\xcf\xfd\x9f.\xed\xd0\xd1z\x0e\xa1g\x18y\x9c\x0cf\xeb\x89b@\xf4\x96\xe5$\xbe\xef\xe1\xc3\x8aQ\xc9\xcbn\xd0Q\x92e\xf3\xacU\xf3\xc8#\xd4=-\xcc!\xa7\xb8\x8a1\xc0\xacd\x9a5]\x90X\xe8\x96\xcf,\xbd\xde \xf5\xc6\xa0:\xa8\x99\x8e\xb9f6\x9c\x8a\xb3V\x1d4\x1a\xa4\\!e\xcb\xb6\xcc\x81c\xd5\xaa6)\xeb}j\xc7-.\x0e\x8d\xaaV25\xd3,V\xea\xc5J\xa3\x18\x85\xee\x06\xc8\xa4)xB\xf2\x99\xf8|2\x10\xc0y\x96\xb1v\x06\xb1\xf6\t\x84\xd9\xaf\x82\x04\xb2ju`\xac\xd5\x8d\xc1Z\xbd\\%\x96\x85\x81\xa9f4\xea\xf5Z\xa3bT-\\vL\xcb\xa8\xea/\xb0M,\xc6\x86\x87>s\xd9a\x7fg\xdb,IB\xc9\xa2c\xf8\xb28|-\x8a\xd8\xa7\xe1P\xf0"Y\x92\xf3Y\xfe\xaa1\xe3//\xf2_\xac\x14s\x02WJ\x91\xaeF\xc8\x1c\x17\x05-\xa0\xb2\xa0\xd4\xe0S\xf4\x10*\x8a\xb1G\x89\xef\xc4E\xcat\x0b;.\xd1;\xa8\x15\xa0\x87%\xa3\x856[;\xdb\xdd\xd6\xf3\xad\xfd\x97\x1d\r\xf5\xf7v\xb7\xf7Z\xbd\xde\xd6\x9e\xe6\xc2\xca\xe1\x86\xcd|\xc6[\xcd\x87\xa5\xf2``\xc0gEUl\xca\n\xc3\xac\x93\x8a\xb1\x12\x8b\x89O\x9a\x03\x1f\x0b->N0\'R\xed@\xf1\xa4\xee\xbd\xfb\xea\xdd\xc1$\xa2\xa1\x8b\xf6\xbf\xdf\xfe\xe1\xd1\xa9\x10\x08v\x02\xa2\t\xd5\xa4\xc5#\xb7\xe8\x11\xce\x86\t\x8e")\x8atQ\xb9\xc4\x8b\xba\xb1i\xc2\x12\xf4\x844K\xf5\x15\x10\x08\x89\x9b\x9dB+(\xbcy\xdb\xdd\xddyZ\xe8\x88\xd5\xb8\xb0\xc3D\xa1U\xf8&\x89Ea\x07\x07\xa4\xb0\xc9\xd9S\xd5\xd0\x82G\x1c:O\x0f<\x1c\x0e\x0boYR\xd8\x1a\x11>a!)|\xfc\xf0\xd7\xdf?\x9e\x11\xc1\x91H\xd9\xcc\x88\x1e\xa7;P\x16\x87\xee\xd1\xdas\xda\xc7\x0f\x7f\xff\xd7\xeb\xadn{\xb7\xb7\x85\x0evQ\xef\xad<\xa4\x17\x9d\xee\x96l\x80v\xf4\xf1\xc3/\xbf\x95\xd5r\xef\xa8\xb3\x8f\x9ehHI\x07N\xe1^\xc1\x01\xecw\xff\x80\xbf\xffD]:"1\xea\x84\x12m\xa6n\xb9{\xc5S|\x7f\xfa\x0b\xdao\xbf\xdc\xdd\xed\xa2\x15\xd4\xf6q\x1cKB\xd3\x00\xe5\xf8\xcd\xaf\x80\x0e\x8eu\x8f\x80]Q\x96J\x8e\xf1\x10\x1d0\xb4\x0f*\xea\x13h\xff\xe3\x9f\xa1c\xee\xd9W\x9a\xa6-G\x03\x1c\xd1\xa2\x83\xa9?):d\xa4\xbbDl\xf0f{b\x11\xde\xc6\x1c\xfc^X:o;,"!\x18\x9fOl\x01G\xa6\xf61J\xc8Q\xac\xcb\x9dqj%\x82\xf1\xb8\x08\xe6\xb1\x9127\x0c\xf0u\xfa\xba\xf4LH\xd3\xd63\x96Lp\xab\xa9\xe0V\xd7?\x89\xee\xbbz\xbf\xd2\xd5:;\xf9t\xae{\x95\xff\x83\x07\xe8t\xb1\xd5\xab\x17\xe3\xd8K|\x0b\x87\x84\x1f\x11R\xaaM\xa3T\x9f\xb3\x01\xf5\xc9\x9e\xf2v\xdb\x04Z1\xc8/\x85\x81\x85c\x1d\xdc\x92\xb3\xef\xe1!\x91\x1c\xab\xb3\xf8\x11\xbdO#\x88\'\x9a\xb2\xb0\x8e\xda,\x0c\xe1L\xd0k\x98\x17\xf5\xc8y\xb2Y\x0eV\xe7\xe4\x03jO\x82\np\xd8\xf9\x03\xe2\x13\x97\xe3 \xff\t\xd1"\xeb\xabI\xb7\xaf>J\t2\xdf\xcf\xb8&<\xa2\xa9\xbe+2\x9e6\xc5t\x80*\xb5\x95;W\xf1$\x9fK\xc3\xd8\xfd\x1a\x178F\x95I\xc9\xc04\xa5\xe0R\xda2+\x11\xcd|\x9b9\xd0r:\xb4"\x95\xfc\xa2$\xe4\xcd\xc4g\xa1\x06\xc2\xd5\xfb\x9dv\x9a\x82(\x1e\xc1\xc1\x8c\x06\x90ch\x16\x0b\x87\x04\xacF\xd2\xc0\xe2\xe8\x99W\xbaz\xeb\x01q(\x86!\x917I\x93\x03Y\xd6\xbfw\xdb\xcf[\'\xf6\xb7\xa3x\xaf\xb6\xdb3\x92\xd7\xae\x9ev9\xbb\xd3\x8a\x91_\x87h\xd0\xd9y\xb1\xbb\xd7k\x1dtvw\xd0\x13\xd8\xaf\x05\x9b\xf7\xca\xf7-\xf9\\\xee\xc7\x1f\x7ftY\x8e\x06\x11\xe3\x02\xe5\x07\x81\x00\x95\x80\xb0KP\x1f\x84\x04\x8e.\x86\xf4\x104\xfd\'\x08\xbe\xa1\x0chP\x86\xc3\x80\x92$\x99\xaf\xc1.A4\x14\xf0\xe41\xcb\xa2\x10b\xde\xfdp\xdax\xc4\xac\xac\xe7\xcf\xb9\xdc \tm$q\x1f=VS\x8f0G0U\x13\x85d\xfc(]y\x1a\xf1\x03RT\xab\xc8O\x13\xe5[\x9b\xcf\xbf\xebv_\xb6\xf2i\xd3)\x044\xa9 ;\xad\x97(\xd9\x10\xb3>\xad\x94\x08Y%\xf8\x02i\x0f \xee\xb4-#\x86\xb6\x0c\xfa\xa7\xbc\xcd\x1c\x92\xff\x1a\xe5\x83$\xa6v\xfe\xeb<rq 5\xf1\xe7\x14\r\x84U\xecCO\xe1\x87\x8f\x02\xf2\x18\xf6\x05\xc2T!\xe0~\x8f\xf4W\xe3\xa9\xe7\xcd\xa7\xb2d?N\xaf\x1b\xbc\x1a\xb4w\xeb~\xbbUr\xdf\x94\xc5xf?\x1b6u\x9a\xc4\x1e\x18UR\xa9\xe3a-\x18\x0f\x925\xb3T\xaa5NN\xf8\xda\xc4\x19UK\r\xd3h\x1c\x9fD\xd6\x1a\x8fO\xc6\xe1\x11n\x90\x15\x0e\x83N\xa7X\xb1E3\xce M\xe3\xe1\xfa>\x84S\x81z\x13t@Ae\xce\xf5\xda\xea\x82\xb6\xe8\xb9\xcf\xf3/\xd3\xbe\xe9g\xee\xba\x04\xb28\xcf=i\xd3,;\x16X\xc4\x9a\xc0I\x04\x19\xf7\x98\x15!\x03\xb6\x89_\x84\\[Fa}\x8c\x87\x90a\x04d#S\xed\xa6\x8b\x13\x81\x83!\xa7\xb1\x17b\xbe\xe2Q\x87\x1c\xa61C\xde\xdc\xd2\xb2\xc5\xb8CxZ\xe1\xe3\xd0\x8d\x0fm\x96\x84\x10\xaeV,\xf70M\xdf\x8d\xe9gE\x90\xf7bZW\xaf\xd7e\xbe\xb0t--/\xed\xe1bu\xe9Q\x1b\x13\xdf\xa7=\xe2\x10\xcaY\xac\x07\xd3\x8a\xe0\xb4\x02\xc7 \\\xd0\x1e\xb0J\xc8\\\x82(\x81\xa2F}\x1fn\x08\\\xa5S\xeaF\x95\x82\xa4\xb7*\xa5J\xe9\x9doY\x97/9\x1e<\xa2!\xf6\xf5i\xa4\xd7\xd2P\xaf\xbd\x06\x99\xca#?\xcf\x0e\x96\x07O\x7ff\xb1C\x81\xc7\xba<8\x19f\xa7Q\xa9\xa5\xba\xa1ln\xd4\x929\x1a\x15\x93\xec*\x9d\xe2\xa6\xc9\xd8t?\xf7\xe9\x16.\xb6\xcb\xd2\x92]\xbe\x8a\xe3\xed\xad \x1aN\xb6v\xbd\xcd\xb6U\'\xe6Evi\x84e\x97\x9a\xd6\xe08\x14\xc7\x01\xb3\xd6\xdc\x06\xa6\x8e\xc9&G\xa51/;q9p\xeb\x86a\xf9\xf3v9\x05\x04W[.A6\x05\xf6\xf8\x02\x8f\x18\xa7\x82@:\xcd\xfc\x18\xb5B\x07\x1d\x10\xdb\x0bAI]\xe9\x95\xff\xf3\xb7_\xfe\xfb\xef?\xc0.\xd6\xa7= QC\xe2l\x0f\xe1a\x81:\xc8\xc3#\x82\xc6\x8c\x0f\x89\x03\x8b\xc0\x1a\xb2cg5\x90q\x89p\xb8\xc9C=\r\xe1(\x04\xb6|\xa2\xf4M\xf0\xa9\xfe\x0bg\xe1x296jg\x8c}Y\x88\x92\x03t\xc3\x1ejn\x96S\x9e5j;\xf60\x8f4\ngyF{d1\xbf\xf8\x86\x05\xf2K\xf5\xacg\xcbI\x0bh?H\xf1t\xe1|\x06\xe8\xa9\x91<\x08\xb0\xcdY\xc4\xc6`r\x92\xf4K\xb6\x12M\x84\x07\xde\xefz[\x91v=\xdbU_Mu\x9d\x9d]\x83\xfb(\xbe\xbe\xf8\xbf\xc1#\x1c\xdb\x9cF\xe2\x8e`\xed\xe8K\x94\xa5PX\xc0\xbcER\xe7\x08"\r\xbb>\xecs5\xfe\xeex\xa7qx\xc6{\x01\xa4\xda\xc66\x15/\x13k\x81x[\xcd\xb0L|\x8b\xd0\xd2iA^\xf0\x89\xd4{\xd0\x1b\xb5\xfa\x9d\x05\xee\xac\xfa\x8e\xc9\xb1-\xbe\x94\x1b\xa6\xb8#\xbb\x0b]\x1a\xbe\xbfT\x99\xb3\x17\xc9\x92\xbcj,\xa0\xee\xc8\xe1s\xa8\xf0\xcbo&\xc2\xc4CH\x96$J\xac^\xcf\xa8\xa7\r\n\x01U\xccn\x99k36\xf9\x9c\xe9\xf0\xb2\x02_-\xce/\xa6\xf2\xb1u%X\x17\x9fc\\Py\xdbx\x9e\x08\xfc\xcb\xe1^\x1e\xf4\xba\x0bh\xb2\xea\xa6\xd4\xf0\x02.;\x8e/\xc7R\x1d\xe6\x9d\xfd\xfe\xfemK\xcbbL\xc8$=\xba\x9c\xedL\xb79\xc2\xcd\xac\xfe\x96\x85\'0\xf5\xc74t.\xa7\x9c\xf5\x9a\x83<\x98V\x9f\xe3\x1co\x9a\xf3\xe88!|r9e\xd6g>\x0by%+\xef\x800b\xb1p!\xe6\\\x83\xb1\x9f\x0e\xdd\x7f\xb5h*\xb7\xc5\xea0\x11\x92+\\`k\xbf_\xdc\xd9:@m\xc6\xc9\x02\xef\xb4\xe9\\\x9f}{N\x9b\xc3\r\xeb\n\xe9\xee\xa5]\x16"!\xd4\xdd\xd1\xf9\x078\xbc\x1c\xb0\x9fuZ:\x7f\xa8\xbd\xa3\xc3\xf7i\x98\xbc\xbf\x1c\xb3\x9bv\x99\x83Tu\xb7\xec\x8d\x1c\xcc\xaf\xd0\xca\xb4\xc7|2\x0cU\xb7\xcc\xc5\xb1eQ\x11\x1c\x7f6\xdb\x9e\x1a\xd8{u\xcb|1Lr\x95w<\x87.\x1dvSlI\xe43\xec\x14\xc7tH\xd3\x97\xfe\x8c\xbb\xba,E\xea\xd5\x88\xcd\x82\x00huS7\x1bz\x9b\xf8\xe0\x06\xd5\xffXH\xdf`}&y:\xfe\xa6\xc8\x1df\'1Nx\xa2\xfe\xa1H\xbe\x14\x9a\xd5\x1c\x0e\xc9D`>\x97\x88\x7f\xb2f\x9e\xcerS\xa4\x16O<\ni6\x1b\x881\xe6\xe9\x0b,)\xc4X\xbea\x80\x9b\xc0<\xe6\x99\xac[>_\x84\xd9WC\xcf\xf3\xe6\xa9/O\x0b\xf0=}\xf33\xfds\x8f/\xe5\xfe\x07yr\xd5\xc9').decode())
+<!-- HOW THIS WORK BRO🖕🖕🖕-->
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<div>
+  <a href="https://t.me/Abdullha_404">
+    <img width="185" heigth="185" src="https://github.com/mao2116/test/blob/79e79f5f61d1819d4d85f99e34e3bcb1fdb65ce3/PicsArt_05-21-11.47.49.png?raw=true" align="left">
+<img width="65" heigth="65" src="https://github.com/mao2116/mao2116/blob/18155f0870f8735ebba5ce6097769405ba3d1b05/Facebook_logo_PNG12.png">
+</a>
+<br>
+<a href="https://linktr.ee/Abdullha_404">
+<img width="50" heigth="35" src="https://raw.githubusercontent.com/mao2116/test/main/linktree.png">
+</a>
+<i></i>
+</div>
+<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ 
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+XYLON;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+  
+  </p>
+ <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+-🥰WELCOME TO MY PROFILE🥰
+
+- 🙂 MY Name IS :- XYLON
+ 
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+- 🇧🇩 Lives In :- BANGLADESH
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+- 📕 SCHOOL & Class :- 10😁
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+- 🙂 Relation :- Born To Single 💔
+
+
+
+<!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
+<!--- <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN"> -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
+
+<p align="center">
+<a href="https://t.me/Abdullha_404"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"
+
+</a>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+ 
+</p>
+<ing align="right" alt="Coding" width="400" src="https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif">
+
+ <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
+</b></h3>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+
+
+```go
+import "fmt"
+
+type Person struct {
+  name string
+  username string
+  age int
+  hobbies []string
+  job string
+}
+
+func main() {
+  var me = new(Person)
+  
+  me.name     = "ABDULLHA"
+  me.username = "XYLON"
+  me.age      = "17"
+  me.job      = "Programer"
+  me.hobbies  = []string{"code", "music"," gaming"}
+  
+  fmt.Println(me)
+}
+```
+
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
+
+<p align="center">
+    <a href="https://github.com/Xylon-404">
+          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+  </a>
+</p>
+
+<br>
+<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
+
+
+> Tools and technologies that I have worked with and I'm interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+      <br>sentry
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
+      <br>Celery
+    </td>
+    <td align="center" width="96">
+        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+      <br>Docusaurus
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+      <br>Pytest
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
+ 
+ 
+ 
+ 
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
