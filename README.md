@@ -55,10 +55,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xylon-404&show_icons=true&locale=en" alt="xylon-404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xylon-404&" alt="xylon-404" /></p>
-
-<img src="https://github.com/Xylon-404/Xylon-404/blob/main/Warning.gif" float="center">
-
-<img align="right" alt="coding" width="400" src="https://github.com/Xylon-404/Xylon-404/blob/main/jnn.gif">
+table border="0">
+ <tr>
+    <td>
+      <br>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💛;+I'm+XYLON;"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Xylon-404"/>
+      <br>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Xylon-404-IN&data=followers,repositories,stars,commits&theme=viridescent"/>
+    <td>
+      <img alt="gif" src="./assets/images/demon-sleyar.gif">
+   </td>  
+ </tr>  
+</table>
 
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
