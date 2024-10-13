@@ -1,4 +1,7 @@
 <!-- HOW THIS WORK BRO🖕🖕🖕-->
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 <div>
   <a href="https://t.me/Abdullha_404">
     <img width="185" heigth="185" src="https://github.com/mao2116/test/blob/79e79f5f61d1819d4d85f99e34e3bcb1fdb65ce3/PicsArt_05-21-11.47.49.png?raw=true" align="left">
@@ -37,7 +40,7 @@
 - 🙂 Relation :- Born To Single 💔
 
 
-#contac
+
 <!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
 <!--- <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN"> -->
 
