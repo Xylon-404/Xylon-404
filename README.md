@@ -24,7 +24,7 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=xylon-404&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <img alt="gif" src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/demon-sleyar.gif">
+      <img alt="gif" src="https://github.com/Xylon-404/Xylon-404/blob/main/XYLON.gif">
    </td>  
  </tr>  
 </table>
