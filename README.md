@@ -20,9 +20,9 @@
     <td>
       <br>
      <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+XYLON;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=xylon-404&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="DARK-LMNx9"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=xylon-404&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="xylon-404"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=LMNx9-JOHNY&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=xylon-404&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
       <img alt="gif" src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/demon-sleyar.gif">
    </td>  
