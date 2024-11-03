@@ -15,7 +15,25 @@
 </div>
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
-  
+ <table border="0">
+ <tr>
+    <td>
+      <br>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+DARK+LMNx9;"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=LMNx9-JOHNY&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="DARK-LMNx9"/>
+      <br>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=LMNx9-JOHNY&data=followers,repositories,stars,commits&theme=viridescent"/>
+    <td>
+      <img alt="gif" src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/demon-sleyar.gif">
+   </td>  
+ </tr>  
+</table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
+</b></h3> 
+
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+XYLON;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+😉)](https://git.io/typing-svg)
   
   </p>
