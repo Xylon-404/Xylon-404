@@ -272,7 +272,7 @@ func main() {
 
 <p align="center">
 <a href="https://github.com/Xylon-404">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xylon-404&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xylon-404&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=Xylon-404&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
