@@ -1,7 +1,5 @@
 <!-- HOW THIS WORK BRO🖕🖕🖕-->
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 <div>
   <a href="https://t.me/Abdullha_404">
     <img width="185" heigth="185" src="https://github.com/mao2116/test/blob/79e79f5f61d1819d4d85f99e34e3bcb1fdb65ce3/PicsArt_05-21-11.47.49.png?raw=true" align="left">
@@ -19,7 +17,7 @@
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+XYLON;"/>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💛;+I'm+XYLON;"/>
      <img width="150" align="center" src="https://komarev.com/ghpvc/?username=xylon-404&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="xylon-404"/>
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=xylon-404&data=followers,repositories,stars,commits&theme=viridescent"/>
@@ -266,3 +264,12 @@ func main() {
  
  
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+## <img
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GitHub States
+
+<p align="center">
+<a href="https://github.com/Xylon-404">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xylon-404&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+  </a>
+</p>
