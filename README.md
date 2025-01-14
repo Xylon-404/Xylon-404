@@ -40,25 +40,25 @@
   
   </p>
 
--🥰WELCOME TO MY PROFILE🥰
+ :trollface:𝓦𝓔𝓛𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓡𝓞𝓕𝓘𝓛𝓔:trollface:
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-- :trollface: MY Name IS ➩ XYLON
+- :trollface: 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 ➩ 𝐀𝐁𝐃𝐔𝐋𝐋𝐇𝐀
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-- 🇧🇩 Lives In ➩ BANGLADESH
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-- 📕 SCHOOL & Class ➩ 10😁
+- :trollface: 𝙻𝙸𝚅𝙴 𝙸𝙽 ➩ 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
-- 🙂 Relation ➩ Born To Single 💔
+- :trollface: 𝙲𝙻𝙰𝚂𝚂 ➩ 10
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+- :trollface: 𝚁𝙴𝙻𝙰𝚃𝙸𝙾𝙽 ➩ 𝗕𝗢𝗥𝗡 𝗧𝗢 𝗦𝗜𝗡𝗚𝗟𝗘
 
 
 
