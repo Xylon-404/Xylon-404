@@ -66,7 +66,7 @@
 <a href="https://t.me/Abdullha_404"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg"
 
 <p align="center">
-<a href="https://t.me/Abdullha_404"><img title="Facebook" src="facebook_2175193.svg" height="20" width="20"
+<a href="https://t.me/Abdullha_404"><img title="Facebook" src="facebook_2175193.svg" height="30" width="30"
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
