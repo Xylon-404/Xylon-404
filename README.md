@@ -12,7 +12,7 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=xylon-404&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <img alt="ABDULLHA" src="pinterestdownloader.com-1742399726.811792.mp4">
+      <img alt="ABDULLHA" src="/scary-gif-1.gif">
    </td>  
  </tr>  
 </table>
