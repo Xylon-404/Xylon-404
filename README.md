@@ -63,7 +63,7 @@
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
 <p align="center">
-<a href="https://t.me/Abdullha_404"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"
+<a href="https://t.me/Abdullha_404"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg" height="14" width="14"
 
 <p align="center">
 <a href="https://t.me/Abdullha_404"><img title="Facebook" src="facebook_2175193.svg?&style=for-the-badge&logo=telegram&logoColor=green"
