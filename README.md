@@ -2,11 +2,7 @@
 ![logo](CODE-X.png)
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="CODE-X"/></a>
-</p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-<div>
-</div>
+    <img src="/FUCK.png" alt="CODE-X"/></a>
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  <table border="0">
  <tr>
