@@ -65,13 +65,9 @@
 <p align="center">
 <a href="https://t.me/Abdullha_404"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"
 
-                                      
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://www.freepik.com/icon/facebook_2175193#fromView=search&page=1&position=13&uuid=494b2b86-2a3c-4db8-a099-cb2202a1e78a"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</a>
+<a href="https://t.me/Abdullha_404"><img title="Facebook" src="facebook_2175193.svg?&style=for-the-badge&logo=telegram&logoColor=green"
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
