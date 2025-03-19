@@ -53,16 +53,11 @@
 
 - :trollface: 𝚁𝙴𝙻𝙰𝚃𝙸𝙾𝙽 ➩ 𝗕𝗢𝗥𝗡 𝗧𝗢 𝗦𝗜𝗡𝗚𝗟𝗘
 
-
-
-<!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
-<!--- <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN"> -->
-
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
-<p align="center"><a href="https://www.facebook.com/profile.php?id=100089818537734"><img src="social_10091566.svg" height="35" width="35"</a>  <a href="https://t.me/R3P1TA"><img src="icons8-telegram.svg" height="35" width="35"</a>  <a href="https://t.me/ALL_CODE_X"><img src="icons8-gun-50.svg" height="35" width="35"</a>
+<p align="center"><a href="https://www.facebook.com/profile.php?id=100089818537734"><img src="social_10091566.svg" height="35" width="35"</a>     <a href="https://t.me/R3P1TA"><img src="icons8-telegram.svg" height="35" width="35"</a>     <a href="https://t.me/ALL_CODE_X"><img src="icons8-gun-50.svg" height="35" width="35"</a>
 
 
 
