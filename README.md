@@ -1,6 +1,9 @@
 <!-- HOW THIS WORK BRO🖕🖕🖕-->
 ![logo](CODE-X.png)
-
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="CODE-X"/></a>
+</p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 <div>
 </div>
