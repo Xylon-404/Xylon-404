@@ -63,10 +63,10 @@
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
 <p align="center">
-<a href="https://t.me/Abdullha_404"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg" height="14" width="14"
+<a href="https://t.me/Abdullha_404"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg"
 
 <p align="center">
-<a href="https://t.me/Abdullha_404"><img title="Facebook" src="facebook_2175193.svg?&style=for-the-badge&logo=telegram&logoColor=green"
+<a href="https://t.me/Abdullha_404"><img title="Facebook" src="facebook_2175193.svg" height="20" width="20"
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
