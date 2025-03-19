@@ -64,9 +64,10 @@
 
 <p align="center">
 <a href="https://t.me/Abdullha_404"><img title="Facebook" src="social_10091566.svg" height="32" width="32"
-
+                                      </p>
 <p align="center">
 <a href="https://t.me/Abdullha_404"><img title="Facebook" src="icons8-telegram.svg" height="32" width="32"
+</p>
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
