@@ -5,9 +5,6 @@
 <div>
 </div>
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
- 
  <table border="0">
  <tr>
     <td>
@@ -74,15 +71,8 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-
- 
-</p>
-<ing align="right" alt="Coding" width="400" src="https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif">
-
  <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </b></h3>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
 
@@ -110,15 +100,6 @@ func main() {
   fmt.Println(me)
 }
 ```
-
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-
-
-
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
@@ -280,8 +261,6 @@ func main() {
 
 <!-- Contribution Snake -->
 <p align="center"><img src="https://github.com/Xylon-404/Xylon-404/blob/main/Abdullah_404.svg"></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <!-- Footer -->
 <img src="Footer.jpg">
