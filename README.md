@@ -1,6 +1,6 @@
 <!-- HOW THIS WORK BRO🖕🖕🖕-->
 <p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
+  <a href="https://vip-page.netlify.app/">
     <img src="/FUCK.png" alt="CODE-X"/></a>
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  <table border="0">
@@ -8,7 +8,7 @@
     <td>
       <br>
      <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%D9%84%D8%A7+%D8%A5%D9%84%D9%87+%D8%A5%D9%84%D8%A7+%D8%A7%D9%84%D9%84%D9%87+%D9%85%D8%AD%D9%85%D8%AF+%D8%B1%D8%B3%D9%88%D9%84+%D8%A7%D9%84%D9%84%D9%87;>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=xylon-404&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="xylon-404"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=xylon-404&label=🖕%Profile%20Visitor%🖕&color=071A2C&style=for-the-badge" alt="xylon-404"/>
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=xylon-404&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
