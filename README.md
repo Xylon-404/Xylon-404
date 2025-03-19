@@ -23,6 +23,8 @@
 
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Hallow+I+Am+Abdullha+💛;It's+A+Brand+Bro💚;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=02F7F4&center=true&vCenter=true&width=435&lines=%D9%84%D8%A7+%D8%A5%D9%84%D9%87+%D8%A5%D9%84%D8%A7+%D8%A7%D9%84%D9%84%D9%87+%D9%85%D8%AD%D9%85%D8%AF+%D8%B1%D8%B3%D9%88%D9%84+%D8%A7%D9%84%D9%84%D9%87)](https://git.io/typing-svg)
   
   </p>
 
