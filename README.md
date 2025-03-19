@@ -22,7 +22,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Hallow+I+Am+Abdullha+ :trollface: ;It's+A+Brand+Bro💚;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Hallow+I+Am+Abdullha+💛;It's+A+Brand+Bro💚;Thank+You+Everyone+😉)](https://git.io/typing-svg)
   
   </p>
 
