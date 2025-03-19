@@ -1,5 +1,4 @@
 <!-- HOW THIS WORK BRO🖕🖕🖕-->
-![logo](CODE-X.png)
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="/FUCK.png" alt="CODE-X"/></a>
